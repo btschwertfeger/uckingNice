@@ -70,9 +70,10 @@
     "dropdown.background": "#313338",
     "dropdown.border": "#313338",
     "editor.foreground": "#abb2bf",
-    "editor.findMatchBackground": "#42557B",
-    "editor.findMatchBorder": "#457dff",
-    "editor.findMatchHighlightBackground": "#314365",
+    "editor.findMatchBorder": "#00000000", // transparent
+    "editor.findMatchBackground": "#ff0000b9", // current match
+    "editor.findMatchHighlightBackground": "#ff000088", // other matches
+    "editor.findRangeHighlightBackground": "#ff000033", // range between cursor and match
     "editor.selectionHighlightBorder": "#ddd",
     "editor.wordHighlightBorder": "#7f848e",
     "editor.wordHighlightStrongBackground": "#abb2bf26",
