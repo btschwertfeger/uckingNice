@@ -1,0 +1,30 @@
+{
+  "name": "uckingnice",
+  "displayName": "A uckingNice Theme",
+  "description": "A really nice VSCode Theme",
+  "version": "0.0.1",
+  "publisher": "btschwertfeger",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "bugs": {
+    "url": "https://github.com/btschwertfeger/uckingNice/issues"
+  },
+  "homepage": "https://github.com/btschwertfeger/uckingNice/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btschwertfeger/uckingNice.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "uckingnice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uckingNice-color-theme.json"
+      }
+    ]
+  }
+}
