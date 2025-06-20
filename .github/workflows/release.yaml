@@ -11,6 +11,9 @@ on:
 name: Deploy Extension
 jobs:
   deploy:
+    environment:
+      name: Visual Studio Marketplace
+      url: https://marketplace.visualstudio.com/items?itemName=btschwertfeger.uckingnice&ssr=false#overview
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
