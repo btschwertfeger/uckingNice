@@ -1,0 +1,59 @@
+{
+  "name": "uckingnice",
+  "displayName": "A uckingNice Theme",
+  "description": "A ucking Nice VSCode Theme for Visual Studio Code!",
+  "version": "1.0.1",
+  "publisher": "btschwertfeger",
+  "author": "Benjamin Thomas Schwertfeger",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "bugs": {
+    "url": "https://github.com/btschwertfeger/uckingNice/issues"
+  },
+  "homepage": "https://github.com/btschwertfeger/uckingNice/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btschwertfeger/uckingNice.git"
+  },
+  "galleryBanner": {
+    "color": "#2b2b2b",
+    "theme": "dark"
+  },
+  "keywords": [
+    "dark",
+    "modern",
+    "theme",
+    "uckingNice"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "A uckingNice Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uckingNice-color-theme.json"
+      }
+    ]
+  },
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadges.dev/version/btschwertfeger.uckingNice.svg",
+      "href": "https://marketplace.visualstudio.com/items/btschwertfeger.uckingNice",
+      "description": "Extension version"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/installs/btschwertfeger.uckingNice.svg",
+      "href": "https://marketplace.visualstudio.com/items/btschwertfeger.uckingNice",
+      "description": "Extension installs"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/rating/btschwertfeger.uckingNice.svg",
+      "href": "https://marketplace.visualstudio.com/items/btschwertfeger.uckingNice",
+      "description": "Extension Rating"
+    }
+  ]
+}
