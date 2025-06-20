@@ -1,0 +1,13 @@
+# -*- mode: yaml; coding: utf-8 -*-
+# Copyright (C) 2025 Benjamin Thomas Schwertfeger
+#
+# https://github.com/btschwertfeger
+#
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      all:
+        dependency-type: production
