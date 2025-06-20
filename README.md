@@ -57,15 +57,20 @@ I also like the following settings in `settings.json`:
 }
 ```
 
-## Markdown Preview
+## More Previews
+
+This Theme does look in almost all languages since it uses generic color
+customizations.
+
+### Markdown Preview
 
 ![Markdown Preview](./resources/MDPreview.png)
 
-## Python Preview
+### Python Preview
 
 ![Python Preview](./resources/PythonPreview.png)
 
-## JavaScript Preview
+### JavaScript Preview
 
 ![JavaScript Preview](./resources/JSPreview.png)
 

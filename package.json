@@ -1,7 +1,7 @@
 {
   "name": "uckingnice",
   "displayName": "A uckingNice Theme",
-  "description": "A really nice VSCode Theme",
+  "description": "A ucking Nice VSCode Theme for easy eyes!",
   "version": "0.0.1",
   "publisher": "btschwertfeger",
   "license": "MIT",
@@ -27,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "uckingnice",
+        "label": "A uckingNice Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/uckingNice-color-theme.json"
       }
