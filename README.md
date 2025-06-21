@@ -34,7 +34,7 @@ This Theme works best with:
 - **Font**: [MesloLGS NF](https://github.com/romkatv/powerlevel10k-media/tree/master)
 - **Icons**: Seti (Visual Studio Code; vs-seti) (builtin)
 
-I also like the following settings in `settings.json`:
+I also recommend the following settings in `settings.json`:
 
 > Sorry but those must be added manually and can't be packed into a theme.
 
@@ -62,7 +62,7 @@ I also like the following settings in `settings.json`:
 
 ## More Previews
 
-This Theme looks in almost all languages since it uses generic color
+This theme looks great in almost all languages since it uses generic color
 customizations.
 
 ### Markdown Preview
