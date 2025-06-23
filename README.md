@@ -14,7 +14,7 @@ your development workflow.
 
 ## Preview
 
-![VSCode Preview](https://github.com/btschwertfeger/uckingNice/blob/master/ressources/vscodePreview.png?raw=true)
+![VSCode Preview](https://github.com/btschwertfeger/uckingNice/blob/master/resources/vscodePreview.png?raw=true)
 
 ## Review and Feedback
 
@@ -67,15 +67,15 @@ customizations.
 
 ### Markdown Preview
 
-![Markdown Preview](https://github.com/btschwertfeger/uckingNice/blob/master/ressources/MDPreview.png?raw=true)
+![Markdown Preview](https://github.com/btschwertfeger/uckingNice/blob/master/resources/MDPreview.png?raw=true)
 
 ### Python Preview
 
-![Python Preview](https://github.com/btschwertfeger/uckingNice/blob/master/ressources/PythonPreview.png?raw=true)
+![Python Preview](https://github.com/btschwertfeger/uckingNice/blob/master/resources/PythonPreview.png?raw=true)
 
 ### JavaScript Preview
 
-![JavaScript Preview](https://github.com/btschwertfeger/uckingNice/blob/master/ressources/JSPreview.png?raw=true)
+![JavaScript Preview](https://github.com/btschwertfeger/uckingNice/blob/master/resources/JSPreview.png?raw=true)
 
 ## License
 
