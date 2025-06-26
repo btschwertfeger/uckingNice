@@ -9,10 +9,13 @@ environment that's easy on the eyes during long coding sessions. The carefully
 balanced color palette enhances readability while adding a touch of elegance to
 your development workflow.
 
+
 - [GitHub Repo](https://github.com/btschwertfeger/uckingNice)
 - [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=btschwertfeger.uckingnice)
 
 ## Preview
+
+[![Preview in Visual Studio Code](https://img.shields.io/badge/Live%20Preview-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscode.dev/theme/btschwertfeger.uckingNice)
 
 ![VSCode Preview](https://github.com/btschwertfeger/uckingNice/blob/master/resources/vscodePreview.png?raw=true)
 
